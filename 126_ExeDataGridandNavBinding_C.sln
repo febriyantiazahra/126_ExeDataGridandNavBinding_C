@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "126_ExeDataGridandNavBinding_C", "126_ExeDataGridandNavBinding_C\126_ExeDataGridandNavBinding_C.csproj", "{00F597E7-D42D-4598-BBC5-1214D400EFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F597E7-D42D-4598-BBC5-1214D400EFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F597E7-D42D-4598-BBC5-1214D400EFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F597E7-D42D-4598-BBC5-1214D400EFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F597E7-D42D-4598-BBC5-1214D400EFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF648849-726D-4C26-8C10-E1E48F4B8D5F}
+	EndGlobalSection
+EndGlobal
